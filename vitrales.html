@@ -1,0 +1,701 @@
+<!DOCTYPE html>  
+<html>  
+	<head> 
+		
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+ 
+		<title>Vitrales de St Paul’s</title>
+		<!-- code from https://gist.github.com/pgr86/2420594 W3schools.com and others-->
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		
+			<script>
+		
+
+		</script>
+		
+		
+		
+		
+		
+		<style>
+			.page {
+				display: none;
+			}
+
+			.page-active {
+				display: block;
+			}
+			dl {
+				list-style-type: none;
+			}
+
+			dl li {
+				text-decoration: none;
+				color: black;
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+
+img {
+  /*width: 90%;*/
+  width: 300px;
+}
+
+
+/* Browser specific (not valid) styles to make preformatted text wrap */		
+
+pre {
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+body {
+  /*margin: 35px;*/
+}
+
+
+
+
+
+
+
+
+
+ /* Style the tab */
+.tablinks {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tablinks input {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tablinks input:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tablinks input.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  /*border: 1px solid #ccc;*/
+  border-top: none;
+
+} 
+
+
+
+
+.container{
+	  margin: 0px;
+	}
+
+
+/*
+p {
+	width: 80%;
+	}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* Style the tab */
+.tab {
+  overflow: hidden;
+ /* border: 1px solid #ccc;
+  background-color: #f1f1f1;*/
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+ /* background-color: inherit;*/
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.bod {
+ 
+  padding: 6px 12px;
+  /*border: 1px solid #ccc;*/
+  border-top: none;
+} 
+
+
+
+
+		</style>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				function onHash() {
+					if(!window.location.hash) {
+						return;
+					}
+					var name = window.location.hash.substr(1),
+							el = document.getElementById('vitral-' + name);
+				
+					if(el) {					
+						// remove current page's class
+						document.getElementsByClassName('page-active')[0].className = 'page';
+						// add new page's class
+						el.className = ' page-active';
+					}
+				};
+			
+				window.onhashchange = onHash;
+				onHash();
+			});
+		</script>
+		
+		
+	
+		
+		
+		
+	</head>  
+	<body>
+		<a name="vitrales"></a>
+		<div class="container">
+		<!--<h1><a href="vitrales.html">Vitrales de St Paul’s.</a></h1><br>-->
+						<h3 ><a title="Volver" 
+href="index.html">&#9664 Volver a página principal</a></h3>
+	<br>
+						<!--<br><br>-->
+<div class="tab">						
+					
+									
+<button type=button class="tablinks" title = "
+Vitral 1:
+La vida de San Pablo" onClick="location.href='vitrales.html#1'" value='1'>1</button>
+<button  title ="
+2: Jesús calma las aguas" type=button class="tablinks" 
+onClick="location.href='vitrales.html#2'" value='2'>2</button>
+<button  title="
+3. Simeón sosteniendo al niño Jesús" type=button class="tablinks" 
+onClick="location.href='vitrales.html#3'" value='3'>3</button>
+
+<button  title="4. David con la cabeza de Goliat" type=button class="tablinks" 
+onClick="location.href='vitrales.html#4'" value='4'>4</button>
+<button  title="5. Jesús sana a un no vidente" type=button class="tablinks" 
+onClick="location.href='vitrales.html#5'" value='5'>5</button>
+<button  title="6. El bautismo de Jesús por Juan Bautista " type=button class="tablinks" onClick="location.href='vitrales.html#6'" value='6'>6</button>
+
+<button  title="7. Simón Pedro sosteniendo las llaves" type=button class="tablinks" 
+onClick="location.href='vitrales.html#7'" value='7'>7</button>
+<button  title="8. Bernabé dándole la bienvenida a Saúl" type=button class="tablinks" 
+onClick="location.href='vitrales.html#8'" value='8'>8</button>
+<button  title="9. Ángeles y niños." type=button class="tablinks" 
+onClick="location.href='vitrales.html#9'" value='9'>9</button>
+
+<button  title="10. San Jorge (Sanctus Georgius)." type=button class="tablinks" 
+onClick="location.href='vitrales.html#10'" value='10'>10</button>
+<button  title="11. San Juan el Evangelista" type=button class="tablinks" 
+onClick="location.href='vitrales.html#11'" value='11'>11</button>
+<button  title="12. Jesús bendiciendo a los niños " type=button class="tablinks" 
+onClick="location.href='vitrales.html#12'" value='12'>12</button>
+
+<button  title="13. La transfiguración y la resurrección. " type=button class="tablinks" 
+onClick="location.href='vitrales.html#13'" value='13'>13</button>
+<button  title="14. Mujeres alrededor de la cruz" type=button class="tablinks" 
+onClick="location.href='vitrales.html#14'" value='14'>14</button>
+<button  title="15. Jesús el buen pastor " type=button class="tablinks" 
+onClick="location.href='vitrales.html#15'" value='15'>15</button>
+
+<button title="16. Caritas" type=button class="tablinks" 
+onClick="location.href='vitrales.html#16'" value='16'>16</button>
+							
+				<!--		-->			
+						
+						
+						
+						</div>
+						
+						
+						
+						
+						
+						
+		<div class='bod'>
+			<table>
+				<tr>
+					<td class='nav'>
+						
+						<dl>
+					
+							
+						
+							
+							
+							
+						</dl>
+					</td>
+					<td class='info'>
+						<div class='page page-active' id='vitral-1'>
+				<!---->
+							<h3>Vitral 1:</h3>  
+							<h4>La vida de San Pablo:</h4>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;
+muestra varias partes de la vida de San Pablo, encontradas en las Actas de los Apóstoles. En el centro arriba se ve San Pablo, apoyado sobre una espada, mostrando la manera en que murió, decapitado. Debajo de eso se ve el momento en que Pablo (en ese entonces conocido como Saulo) fue testigo de la muerte de Esteban, apedreado por ser seguidor de Cristo (Hechos 7). Después, debajo de eso, se ve el momento en que Saulo se convirtió en cristiano en el camino a Damasco, tras escuchar la voz de Dios diciéndole “Saulo, Saulo, ¿por qué me persigues?” (Hechos 9:1-7). Luego, el dibujo más bajo en el centro muestra a Pablo predicando en Damasco (Hechos 9:20).
+<br>
+	<center><img src="images/vitrales/0vidadesanpablo2.jpg"></center>
+	<br><h1><a style="float: right;" 
+				href="#vitrales" title="Arriba" >&#9650</a></h1>	
+				<br>		
+<br>&nbsp;&nbsp;&nbsp;&nbsp;
+La historia sigue con el vitral a la izquierda, donde arriba se ve a Pablo escapando de Damasco por una ventana en el muro, dentro de una cesta, porque los judios querían matarle por sus prédicas (Hechos 9:23-24). Debajo de eso vemos a Pablo en Listra, sanando a un hombre lisiado de nacimiento (Hechos 14:8-19). Debajo de eso se ve a Pablo, quien recibió una visión en la que un hombre de Macedonia le rogaba pasar a Macedonia para ayudarlos (Hechos 16:6-10).
+<br>
+<center><img src="images/vitrales/1_SaintPaul_.jpg"></center>
+<br><h1><a style="float: right;" 
+				href="#vitrales" title="Arriba" >&#9650</a></h1>	
+				<br>	
+<br>&nbsp;&nbsp;&nbsp;&nbsp;
+La historia sigue en el vitral a la derecha, donde arriba se ve a Pablo en un barco, preso, y en camino hacia Roma. Hubo una tormenta fuerte y los soldados querían matar a los presos, pero Pablo los salvó, animándoles a poner su fe en Dios (Hechos 27:27-44). Llegando a Malta, en el dibujo debajo, Pablo estaba recogiendo leña cuando una víbora se le prendió en la mano (Hechos28:1-6). Se suponía que Pablo se hinchara o muriera pero no sufrió ningún daño y pudo predicar el evangelio en Malta antes de seguir el viaje a Roma, donde al final murió decapitado, como se ve en el último dibujo.
+<br>
+
+	
+							<center><img src="images/vitrales/2SaintPaul_.jpg"></center>	
+				<br>
+Firmados por Lavers & Westlake, 1883</p>
+
+				
+				<br><h1><a style="float: right;" 
+				href="#vitrales" title="Arriba">&#9650</a></h1>	
+				<br>	
+					<br>	
+					
+						</div>
+						
+						<div class='page' id='vitral-2'>
+							<h4>2: Jesús calma las aguas (ver Mateo 8:23-27).</h4>
+							<p> &nbsp;&nbsp;&nbsp;&nbsp;
+								La biblia cuenta que Jesús y sus discípulos estaban en un barco en el lago, cuando se levantó una tormenta tremenda. Jesús estaba durmiendo pero sus discípulos le despertaron con mucho miedo. Más Él se levantó y reprendió a los vientos y al mar, y el mar se calmó por completo.
+<br>
+
+				<br>		
+	<center><img src="images/vitrales/03_jesus_calma_las_aguas.jpg"></center>
+	<br>
+Sin firma visible: posible atribución a Lavers & Westlake</p>	
+<br><a href="#top">top</a>
+						</div>
+						
+						
+						
+						<div class='page' id='vitral-3'>
+							<h4>3.  Simeón sosteniendo al niño 
+							Jesús (ver Lucas 2:22-32).</h4>
+							  <p> &nbsp;&nbsp;&nbsp;&nbsp;Simeón era un hombre muy devoto, y Dios le había dicho que no moriría sin haber visto al “Mesías”, quien salvaría al pueblo de Dios. Simeón fue dirigido por el Espíritu de Dios a entrar al Templo. María y José habían traído a Jesús, su primer hijo, para presentarlo a Dios en el templo en Jerusalén. Cuando Simeón vio al niño, lo tomó en sus brazos y alabó a Dios. Sus palabras demostraron que había reconocido a Jesús como el Mesías que esperaba. Simeón lleva un sombrero parecido a la mitra de un obispo. Pueden verse aureolas alrededor de las cabezas de las figuras.
+<br>
+	
+	<center><img src="images/vitrales/image005.jpg"></center>	
+			<br>
+Firmado por Lavers & Westlake, 1894 </p>
+				<br>					
+						</div>
+						
+						
+												<div class='page' id='vitral-4'>
+							<h3 >4.  David con la cabeza de Goliat (ver 1 Samuel 17).</h3>
+
+  <p>&nbsp;&nbsp;&nbsp;&nbsp; Esta es una historia del Viejo Testamento. Los Israelitas luchaban con los Filisteos. El campeón del los Filisteos era un hombre inmenso de nombre Goliat, quien desafió a los Israelitas a enviar a un hombre para pelear con él. Nadie se atrevía, hasta que un niño de nombre David ofreció pelear con Goliat. Confiaba en que Dios lo protegería. Llevaba una honda y cinco piedras pequeñas. Goliat se burló de David, pero David le contestó que el Señor Dios lo ayudaría a vencer a Goliat. Tomó una piedra, la colocó en su honda y la lanzó. La piedra salió volando y golpeó a Goliat en la frente, fracturando su cráneo. ¡El enemigo había fallecido! Luego David tomó la espada de Goliat y lo descabezó.
+					
+						<br>
+						<br>
+						<!--
+						version 2
+
+David con la cabeza de Goliat (ver 1 Samuel 17). Esta es una historia del Viejo Testamento. Los Israelitas luchaban con los Filisteos. El campeón del os Filisteos era un hombre inmenso de nombre Goliat, quien desafió a los Israelitas a enviar a un hombre para pelear con él. Nadie se atrevía, hasta que un niño de nombre David ofreció pelear con Goliat. Confiaba en que Dios lo protegería. Llevaba una honda y cinco piedras pequeñas. Goliat se burló de David, pero David le contestó que el Señor Dios lo ayudaría a vencer a Goliat. Tomó una piedra, la colocó en su honda y la lanzó. La piedra salió volando y golpeó a Goliat en la frente, fracturando su cráneo. ¡El enemigo había fallecido! Luego David tomó la espada de Goliat y lo descabezó. ¡La espada se ve ensangrentada! Aparecen soldados en la ventana.<br>
+David with the head of Goliath (see 1 Samuel 17). This is a story from the Old Testament. The Israelites were fighting against the Philistines. The champion of the Philistine army was a huge man called Goliath, who challenged the Israelites to send a man to fight against him. Nobody dared, until a young boy called David offered to fight Goliath. He trusted that God would protect him. He carried a sling with five small stones. Goliath laughed at David, but David replied that the Lord God would help him to beat Goliath. He took a stone, put it in the sling and threw it. The stone flew out and hit Goliath on the forehead, fracturing his skull. The enemy had died! Then David took Goliath´s sword and cut his head off. The sword can be seen covered in blood. You can also see soldiers in the window.
+		-->				
+						
+<br>
+Sin firma visible: posible atribución a Lavers & Westlake </p>
+					<br>		
+		<center><img src="images/vitrales/"></center>					
+							
+						</div>
+						
+						
+						
+																	<div class='page' id='vitral-5'>
+							<h3 >5. Jesús sana a un no vidente (ver Juan 9:1-7).</h3> 
+
+                    
+           <p>   &nbsp;&nbsp;&nbsp;&nbsp;      Cuando Jesús iba caminando vio al no vidente y decidió sanarlo. Jesús hizo lodo escupiendo al suelo y mezclando su saliva con la tierra. Luego con el lodo untó los ojos del ciego y lo mandó a lavarse en el estanque de Siloé. El hombre hizo lo que Jesús le indicó y de ahí en adelante pudo ver. Esta es una de las muchas sanaciones milagrosas realizadas por Jesús.
+<br>
+
+<br>
+
+Sin firma visible: posible atribución a Lavers & Westlake</p>
+					<br>		
+	<center><img src="images/vitrales/"></center>						
+							
+						</div>
+						
+						
+																					<div class='page' id='vitral-6'>
+							<h3 >6. El bautismo de Jesús por Juan Bautista (ver Mateo 3:13-17).</h3> 
+
+            <p>   &nbsp;&nbsp;&nbsp;&nbsp;
+                     Juan había estado predicando sobre la necesidad del arrepentimiento de los pecados. Él bautizó a numerosas personas en el río Jordán, incluyendo a Jesús. Cuando salía del agua, el Espíritu de Dios descendió sobre Jesús en la forma de una paloma, y una voz del cielo le dijo, “Este es mi Hijo; estoy muy complacido con Él”.
+        <br>             
+                     
+&nbsp;&nbsp;&nbsp;&nbsp;
+Es más que probable que Juan se quedaría de pie en el río, y el pueblo, incluyendo Jesús, serían bautizados sumergiéndolos en el agua. En el vitral parece que Juan vierte agua sobre Jesús. Juan carga una cruz, un símbolo para mostrar cómo fallecería Jesús. Las palabras “Ecce agnus dei” significan “He aquí el cordero de Dios” (ver Juan 1:29 y 36). Los judíos acostumbraban sacrificar un cordero a Dios, para así expiar sus pecados. Jesús fue “sacrificado” en la cruz, de una vez por todas, y es Él quien quita los pecados de quienes se arrepienten y creen en Él. Ya no necesitamos sacrificar un cordero. Alrededor del vitral se ven símbolos de la trinidad.
+<br>
+<br>
+
+<!--
+version 2 <br>
+El bautismo de Jesús por Juan Bautista (ver Mateo 3:13-17). Juan había estado predicando sobre la necesidad de arrepentimiento (arrepentirse de sus pecados). Él bautizó a numerosas personas en el río Jordán, cuando confesaban sus pecados. Jesús también se le acercó a bautizarse. Cuando salía del agua, el Espíritu de Dios descendió sobre Jesús en la forma de una paloma, y una voz del cielo le dijo, “Este es mi Hijo; estoy muy complacido con Él”. ¿Puerden divisar la paloma en el cuadro? Es más que probable que Juan se quedaría de pie en el río, y el pueblo, incluyendo Jesús, serían bautizados sumergiéndolos en el agua. En la ventana parece que Juan vierte agua sobre Jesús. Juan carga una cruz. Es un símbolo, insertado por el artista, para mostrar cómo Jesús fallecería. Las palabras “Ecce agnus dei” significan “He aquí el cordero de Dios”. (Ver Juan 1:29 y 36). Los judíos acostumbraban sacrificar un cordero a Dios, para así expiar/quedar lavados de sus pecados. Jesús fue “sacrificado” en la cruz, de una vez por todas, y el Él quien quita los pecados de quienes se arrepienten y creen en Él. Ya no necesitamos sacrificar un cordero. Alrededor de la vitrina se ven símbolos de la trinidad (Padre, Hijo y Espíritu Santo).
+<br>
+The baptism of Jesus by John the Baptist (see Matthew 3:13-17). John had been preaching about the need for repentance from sins. He baptised many people in the River Jordan, when they confessed their sins. Jesus also asked to be baptised. When he came out of the water, the Holy Spirit descended on Jesus in the form of a dove, and a voice from Heaven said “This is my Son whom I love; with Him I am well pleased.” Can you see the dove in the window? It is more than likely that John would remain standing in the river and the people, including Jesus, would be baptised by being submerged in the water. In the window we can see John pouring water over Jesus. John was carrying a cross, which is a symbol, inserted by the artist, to show how Jesus would die. The words “Ecce agnus dei” mean “Behold the lamb of God”. (See John 1:29 and 36). The Jews used to sacrifice a lamb to God, to be cleansed of their sins. Jesus was “sacrificed” on the cross, once and for everybody, and He takes away the sins of those who repent and believe in Him. We no longer need to sacrifice a lamb. Around the window you can see symbols of the trinity (Father, Son and Holy Spirit).
+-->
+<br>
+
+
+
+Sin firma visible: posible atribución a Lavers & Westlake
+
+<center><img src="images/vitrales/02copia(1)_1.jpg"></center>
+</p>
+							
+							
+							
+						</div>
+						
+						
+						
+																									<div class='page' id='vitral-7'>
+							<h3 >7. Simón Pedro sosteniendo las llaves (ver Mateo 16:13-19).</h3> 
+
+            <p>   
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+ Pedro, a quien llamamos San Pedro, fue uno de los doce discípulos de Jesús. A sus discípulos Jesús les preguntó, “¿Quién dicen que soy Yo?” Pedro respondió, “Tú eres el Cristo, el Hijo del Dios vivo”. Era una tremenda declaración de fe. Jesús le dijo a Pedro, “Te daré las llaves del reino de los cielos”, de aquí las llaves en el vitral. Pedro llegó a ser uno de los fundadores de la iglesia cristiana después de la muerte de Jesús y su resurrección.
+<br>
+<br>
+
+Sin firma visible: posible atribución a Lavers & Westlake
+
+<center><img src="images/vitrales/St_paul's_stained_glass_5_.JPG"></center>
+</p>
+							
+							
+							
+						</div>
+						
+						
+			<div class='page' id='vitral-8'>
+							<h3 >8. Bernabé dándole la bienvenida a Saúl (ver Hechos 9:26 y 27). </h3> 
+
+            <p>   
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+	Saúl era un judío que perseguía a los primeros cristianos, hasta su conversión milagrosa en el camino a Damasco, cuando cambió completamente y empezó a enseñar sobre Jesús. Los seguidores de Jesús sospechaban de Saúl, pero Bernabé lo buscó y lo llevó a los líderes, explicando lo que le había pasado. Saúl, quien tomó el nombre de Pablo después de su conversión, fue uno de los maestros más grandes en la iglesia cristiana primitiva. Él fue la persona cuyo nombre fue dado a la iglesia St Paul.
+<br>
+<br>
+
+Sin firma visible: posible atribución a Lavers & Westlake
+<center><img src="images/vitrales/"></center>
+</p>
+							
+							
+							
+						</div>
+											
+						
+						
+					
+
+						
+<div class='page' id='vitral-9'>
+<h3 >9. Ángeles y niños. </h3>
+     <p>   
+					&nbsp;&nbsp;&nbsp;&nbsp;		
+	Estas tres ventanas fueron donadas por Thomas Woodsend y su esposa Isabel en mayo 1896. La tradición oral de los descendientes de las familias británicas de Valparaíso cuenta que este grupo de vitrales recuerda la historia de Thomas Woodsend y su familia. Thomas se casó con Mary Jane Moyna que luego de tres embarazos consecutivos perdió sus bebes. Los tres pequeños están enterrados en el cementerio de disidentes de Valparaíso. Mary Jane logró tener dos hijas y se fue con su marido a La Paz, Bolivia, siguiendo los consejos médicos para sanar una neumonía de la que no se mejoraba. Murió y su viudo trajo su cuerpo embalsamado de regreso a Chile. La hizo enterrar junto a sus hijos. Thomas Woodsend volvió a Inglaterra y volvió a casarse. Su  segunda esposa dio a luz, trillizos, que desgraciadamente también fallecieron.
+<br>
+<br>
+Sin firma visible: ninguna documentación hace posible aventurar una atribución por el momento.	
+		
+							
+
+							
+							
+<center><img src="images/vitrales/pentecost_window.jpg"></center>
+</p>
+							
+</div>						
+						
+		
+		
+		
+		
+						
+<div class='page' id='vitral-10'>
+<h3 >10. San Jorge (Sanctus Georgius).</h3>
+     <p>   &nbsp;&nbsp;&nbsp;&nbsp;
+	 San Jorge es el santo patrono de Inglaterra y de algunos otros países. Poca información sobre su vida ha resultado ser comprobable, pero se cree que fue un soldado romano cristiano que fue ejecutado porque se negó a abandonar su fe. Aquí lleva laureles en la cabeza, que simboliza la victoria. Se ve la rosa de Inglaterra, el cardo de Escocia y el treból de Irlanda. San Jorge posa su pie sobre el dragón vencido. La inscripción dice “Nemo me impune lacessit”, que significa “Nadie me ofende impunemente”. En la filacteria se lee “Dulcem et decorum est pro patria mori” que se traduce como “Es dulce y glorioso morir por su patria”.
+<br>
+<br>
+Una leyenda antigua indica que San Jorge dio muerte a un dragón para salvar a una joven que había sido entregada al dragón como sacrificio.
+<br>
+<br>
+Sin firma visible: posible atribución al taller de Percy Bacon o Percy Bacon & Brothers, 1920.						
+		
+		
+							
+
+							
+							
+<center><img src="images/vitrales/"></center>
+</p>
+							
+</div>										
+						
+	
+<div class='page' id='vitral-11'>
+<h3 >11. San Juan el Evangelista (el autor del cuarto evangelio).</h3>
+     <p>   
+						&nbsp;&nbsp;&nbsp;&nbsp;	
+	 San Juan sujeta un libro, un tintero y una pluma, simbolizando su escritura del evangelio. A su lado aparece un águila, que simboliza la palabra de Dios, y a menudo era utilizado para simbolizar a San Juan en el arte religiosa. Hay quienes dicen que ello se debe a las alturas que él alcanza en el capítulo 1 de su evangelio.
+<br>
+<br>
+Sin firma visible: no se dispone de ninguna documentación para sostener las hipótesis de atribución.	
+		
+							
+<br>
+<br>
+							
+							
+<center><img src="images/vitrales/"></center>
+</p>
+							
+</div>										
+						
+						
+							
+	
+	
+	<div class='page' id='vitral-12'>
+<h3 >	12. Jesús bendiciendo a los niños (ver Marcos 10:13-16).</h3>
+     <p>   &nbsp;&nbsp;&nbsp;&nbsp;
+ La gente trajo niños chicos a que Jesús los tocara, lo que no gustó a sus discípulos. Jesús se enojó con los discípulos, y les dijo que permitieran a los niños acercarse. Los tomó en sus brazos y los bendijo.
+							
+<br>
+<br>
+Sin firma visible: posible atribución a Lavers & Westlake						
+		
+		
+							
+<br>
+<br>
+							
+							
+<center><img src="images/vitrales/"></center>
+</p>
+							
+</div>										
+						
+						
+						
+	
+	
+	
+	<div class='page' id='vitral-13'>
+<h3 >	13. La transfiguración y la resurrección. </h3>
+     <p>   
+							
+		&nbsp;&nbsp;&nbsp;&nbsp;En la transfiguración (ver Mateo 17:1-8) 
+		Jesús lleva a sus discípulos Pedro, Santiago y Juan a la cima de un alto monte donde ven un cambio en su apariencia, con su rostro brillante y su vestimenta de una blancura deslumbrante. Ahí Moisés, con la tableta de la ley, y Elías, las máximas figuras del Antiguo Testamento, se unieron a Él, y conversaron con Él. La voz de Dios declaró, “Este es mi Hijo amado”. En la ventana Moisés aparece a la izquierda de Jesús, y Elías a su derecha.
+							
+<br>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+La resurrección se muestra en la mitad inferior de la ventana. (Ver los últimos capítulos de los cuatro evangelios.) Después de la muerte de Jesús en la cruz, al tercer día, la tumba se encontró vacía y Jesús apareció ante sus discípulos. Nosotros celebramos la resurrección de Jesús el día domingo de resurrección de cada año, el día más importante del año cristiano.
+<br>
+
+<br>					
+<center><img src="images/vitrales/Transfiguration.jpg"></center>
+
+<br>
+Sin firma visible: posible atribución a Henry Dearle y Morris & Co (basada en comparación con  St John the Baptist, Upper Elkstone, Staffordshire, UK)						
+		<br>
+
+</p>
+							
+</div>										
+						
+						
+						
+	
+	
+	
+	
+<div class='page' id='vitral-14'>
+<h3 >14. Mujeres alrededor de la cruz en la que Jesús fue clavado (ver Mateo 27:55 y 56, Marcos 15:40 y 41 y Juan 19:25-27). </h3>
+     <p>   
+							
+		
+		
+							
+<br>
+<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;					
+	Tres de los evangelios mencionan mujeres rodeando la cruz de Jesús. El evangelio de Juan indica tres mujeres de pie en la cercanía, todas de nombre María: su madre, María la mujer de Clopás, y María Magdalena. María la madre de Jesús tradicionalmente aparece vestida de azul. La mujer de pelo largo es probable que sea María Magdalena.
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;
+El discípulo Juan también se encontraba al lado de la cruz, y el evangelio de Juan indica como Jesús, viendo a su madre ahí con Juan, le dijo, “Mujer, aquí tienes a tu hijo”. A Juan le dijo, “Aquí está tu madre.” Nos dicen que de ahí en adelante Juan recibió a María en su propio hogar.
+<br>
+
+<br>
+<br>					
+<center><img src="images/vitrales/"></center><br>
+Sin firma visible: posible atribución a Lavers & Westlake	
+</p>
+							
+</div>										
+						
+						
+							
+	
+	
+	
+<div class='page' id='vitral-15'>
+<h3 >	15. Jesús el buen pastor (ver Juan 10:11-15).</h3>
+     <p>   
+							
+		
+		
+		&nbsp;&nbsp;&nbsp;&nbsp;					
+
+ Vemos a Jesús con un cordero en brazos. Él dijo, “Yo soy el buen pastor”, diciéndonos que el buen pastor da su vida por el cordero. Así lo hizo cuando murió en la cruz, dando su vida por todos sus seguidores, sus corderos. Aquello es un tremendo retrato del amor que Dios siente por nosotros.
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;
+En los tiempos de Jesús, el pastor conducía a los corderos; los llamaba y le seguían. Ello nos recuerda que debemos escuchar la voz de Jesús y seguirlo.
+<br>
+<br>
+Sin firma visible: posible atribución a Lavers & Westlake						
+			<br>
+<br>				
+<center><img src="images/vitrales/image001.jpg"></center>
+</p>
+							
+</div>										
+						
+						
+							
+	
+	<div class='page' id='vitral-16'>
+<h3 >16. Caritas</h3>
+     <p>   
+			<div style="display:hidden;"><font color="white">			
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</font>
+
+		</div>	
+		
+							
+<br>
+<br>
+							
+	</p>						
+<center><img src="images/vitrales/image002.png"></center>
+<br>
+
+		Sin firma visible: posible atribución a Clayton & Bell					
+</div>										
+						
+						
+						
+	
+						
+						
+						
+						
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+	
+	<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/otaAXgJbXPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+	https://www.cultura.gob.cl/actualidad/inauguran-vitrales-restaurados-en-iglesia-anglicana-saint-paul-de-valparaiso/
+	
+	
+	-->
+<br>
+<h3><a title="Volver" 
+href="../saintpaul_historical_website/index.html">&#9664 Volver a 
+página principal</a></h3>
+	
+	
+	
+</div><!--container-->
+
+  
+</html>  
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
