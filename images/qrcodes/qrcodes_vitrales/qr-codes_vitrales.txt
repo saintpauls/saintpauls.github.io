@@ -1,0 +1,83 @@
+1.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%231&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%231&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+2.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%232&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%232&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+3.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%233&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%233&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+4.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%234&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%234&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+5.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%235&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%235&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+6.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%236&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%236&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+7.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%237&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%237&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+8.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%238&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%238&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+9.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%239&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%239&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+10.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2310&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2310&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+11.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2311&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2311&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+12.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2312&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2312&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+13.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2313&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2313&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+14.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2314&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2314&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+15.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2315&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2315&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+16.
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2316&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fvitrales.html%2316&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+
+
+
