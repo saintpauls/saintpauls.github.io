@@ -1,0 +1,50 @@
+Catedral Saint Paul on TripAdvisor
+
+https://www.tripadvisor.com.ph/Attraction_Review-g294306-d8698420-Reviews-Catedral_Saint_Paul-Valparaiso_Valparaiso_Region.html
+
+shortened link:
+https://bit.ly/2TeONNt
+
+
+qr codes:
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fwww.tripadvisor.com.ph%2FAttraction_Review-g294306-d8698420-Reviews-Catedral_Saint_Paul-Valparaiso_Valparaiso_Region.html%0A&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fwww.tripadvisor.com.ph%2FAttraction_Review-g294306-d8698420-Reviews-Catedral_Saint_Paul-Valparaiso_Valparaiso_Region.html%0A&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+
+-----------------------------
+Heritage Tour on TripAdvisor
+
+link:
+https://www.tripadvisor.com.ph/AttractionProductReview-g294306-d17429287-Heritage_Tour_covering_the_monuments_and_buildings_of_the_European_colonies-Valpar.html     
+
+shortened link:
+https://bit.ly/33lpQob
+                     
+qr codes:
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fwww.tripadvisor.com.ph%2FAttractionProductReview-g294306-d17429287-Heritage_Tour_covering_the_monuments_and_buildings_of_the_European_colonies-Valpar.html&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fwww.tripadvisor.com.ph%2FAttractionProductReview-g294306-d17429287-Heritage_Tour_covering_the_monuments_and_buildings_of_the_European_colonies-Valpar.html&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+-------------------
+
+https://saintpauls.github.io/
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2F&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2F&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+---------------------------------------------------------
+https://saintpauls.github.io/heritagetour.html
+
+https://bit.ly/2YO9AfX
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fsaintpauls.github.io%2Fheritagetour.html&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fsaintpauls.github.io%2Fheritagetour.html&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+
+
+
