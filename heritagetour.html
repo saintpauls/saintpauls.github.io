@@ -37,6 +37,21 @@ body {
 	
 	}
 
+
+	#inner {
+  display: table;
+  margin: 0 auto;
+  /*border: 1px solid black;*/
+   width: 60%;
+}
+
+#outer {
+ /* border: 1px solid red;*/
+  width:100%
+}
+
+
+
 img
 {
 	max-width:100%;
@@ -66,7 +81,8 @@ if (document.selection) {
 <img src="images/heritage_tour/map.jpg">
 
 <body>
-
+<div id="outer">  
+    <div id="inner"><center>
 <font size="3.5em">
 <a href="#1">1</a>&nbsp;&nbsp;&nbsp;
 <a href="#2">2</a>&nbsp;&nbsp;&nbsp;
@@ -80,12 +96,13 @@ if (document.selection) {
 <a href="#10">10</a>&nbsp;&nbsp;&nbsp;
 <a href="#11">11</a>&nbsp;&nbsp;&nbsp;
 <a href="#12">12</a>&nbsp;&nbsp;&nbsp;
-</font>
+</font></center>
 <br><br>
 
 
-
+	
 <div class="contain">
+	
 <h1>
 European Heritage Tour.<br></h1>
 This webpage is meant to guide you on a tour: <b>
@@ -326,6 +343,7 @@ Or book a tour via:
  <br>
 <br>
 <br>
+</div></div>
 <h3><a href="index.html">&#9664 Back to Main Page</a></h3>
 
 
