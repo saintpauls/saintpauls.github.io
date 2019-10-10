@@ -1,0 +1,74 @@
+
+qr codes for history page
+
+-------------------------------
+https://saintpauls.github.io/historical-information.html#baptistry
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23baptistry&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23baptistry&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+--------------------------------
+
+https://saintpauls.github.io/historical-information.html#brass-plaques
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23brass-plaques&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23brass-plaques&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+
+
+-------------------------------
+
+https://saintpauls.github.io/historical-information.html#lectern
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23lectern&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23lectern&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+
+
+------------------------------------
+https://saintpauls.github.io/historical-information.html#pulpit
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23pulpit&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23pulpit&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------
+
+https://saintpauls.github.io/historical-information.html#rood-screen
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23rood-screen&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23rood-screen&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+
+
+
+
+------------------------
+
+
+https://saintpauls.github.io/historical-information.html#william_lloyd
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23william_lloyd&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23william_lloyd&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+--------------------
+
+http://saintpauls.github.io/historical-information.html#pipe-organ
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23pipe-organ&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fsaintpauls.github.io%2Fhistorical-information.html%23pipe-organ&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
