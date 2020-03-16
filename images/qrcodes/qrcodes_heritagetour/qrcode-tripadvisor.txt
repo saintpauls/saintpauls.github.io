@@ -47,4 +47,19 @@ http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http
 
 
 
+---------------------------------------------------------
+http://saintpauls.github.io/tour.html
 
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http%3A%2F%2Fsaintpauls.github.io%2Ftour.html&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fsaintpauls.github.io%2Ftour.html&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+
+
+
+
+
+http://saintpauls.github.io/tripadvisor.html
+
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=http%3A%2F%2Fsaintpauls.github.io%2Ftripadvisor.html&qzone=1&margin=0&size=400x400&ecc=L
+
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fsaintpauls.github.io%2Ftripadvisor.html&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
